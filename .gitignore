@@ -1,24 +1,198 @@
-# Compiled class file
-*.class
+# Les répertoires et fichiers générés par Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
 
-# Log file
+# Logs
 *.log
 
-# BlueJ files
-*.ctxt
+# Configuration temporaire
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Fichiers de système d'exploitation
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-# Package Files #
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icone de Quarantaine de macOS
+._*
+
+# Fichiers créés par l'éditeur/IDE
+# IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Fichiers créés par les compilateurs/constructeurs
+*.class
 *.jar
 *.war
-*.nar
 *.ear
-*.zip
-*.tar.gz
-*.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# Backup files
+*~.nib
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.old
+
+# JetBrains
+*.idea
+.idea
+*.iws
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/artifacts/
+.idea/dictionaries/
+.idea/libraries/
+.idea/scopes/
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/codeStyles/
+.idea/tasks.xml
+.idea/jarRepositories.xml
+.idea/uiDesigner.xml
+.idea/codeStyleSettings.xml
+.idea/find.xml
+.idea/artifacts/
+.idea/gradle_settings.xml
+.idea/jarRepositories.xml
+.idea/markdown.xml
+.idea/jpaConsole.xml
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/resharperExternalAnnotations.xml
+.idea/datagrip/
+.idea/repositories/
+.idea/scopes/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dataSources.xml
+.idea/dataSources.ids.xml
+.idea/datasources/
+.idea/datasources.xml
+.idea/sqlDataSources.xml
+.idea/databaseSettings.xml
+.idea/databaseDrivers.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/databaseSettings.xml
+.idea/codeStyleSettings.xml
+.idea/gradle.xml
+.idea/jsLibraryMappings.xml
+.idea/libraries/
+.idea/assetWizardSettings.xml
+.idea/codeStyleSettings.xml
+.idea/modules/
+.idea/vcs.xml
+.idea/fileTemplates/
+.idea/scopes/
+.idea/find.xml
+.idea/tasks.xml
+.idea/markdown.xml
+.idea/libraries/
+.idea/runConfigurations.xml
+.idea/compiler.xml
+.idea/jpaConsole.xml
+.idea/fileTemplates/
+.idea/libraries/
+
+# Configuration spécifique à MacOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icône de Quarantaine MacOS
+._*
+
+# Fichiers générés par Maven
+/target/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.sh
+
+# Configuration du wrappeur Gradle
+.gradle/
+build/
+out/
+*.gradle
+
+# Configuration du wrappeur Gradle
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Eclipse
+.project
+.classpath
+.settings/
+*.launch
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Config temporaire
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.ipr
+*.iws
