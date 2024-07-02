@@ -1,23 +1,11 @@
 package ga.fr.JavotPivot;
 
+import java.util.ArrayList;
+
 public class PylierDB {
-    private int id;
-    private String address;
-
-    // Getters and Setters
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public String getAddress() {
-        return address;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
+    public int pylier_id;
+    public String pylier_url;
+    public String pylier_name;
+    public ArrayList<Integer> appareils;
+    public ArrayList<Integer> devices;
 }
