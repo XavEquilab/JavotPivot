@@ -2,23 +2,19 @@ package ga.fr.JavotPivot;
 import java.util.List;
 import java.util.ArrayList;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
 
 public class CommandThread extends Thread {
-	private final Logger logger = LoggerFactory.getLogger(JavotPivotApplication.class);
-
     private List<Integer> _commandsProcessed = new ArrayList<Integer>(); 
 
     public CommandThread() {} // si on ne met pas ce constructeur, ça ne compile pas    
 
     // tourne sur son propre thread
     public void run() {
-		logger.info("Command thread started");
+		ThreadsSharedData.Logger.info("Command thread started");
         try {
             while (true) {
-                logger.info("Command thread : 1 second as passed by");
+                ThreadsSharedData.Logger.info("Command thread : 1 second as passed by");
                     
                 // get json commands from database
                 String commandesResponse = ThreadsSharedData.HttpClient.get()
@@ -27,7 +23,7 @@ public class CommandThread extends Thread {
                     .retrieve()
                     .body(String.class);
 
-                logger.info("Command thread : commandesResponse = " + commandesResponse);
+                ThreadsSharedData.Logger.info("Command thread : commandesResponse = " + commandesResponse);
 
                 ResponseEntity<String> pylierResponse = ThreadsSharedData.HttpClient.post()
                     .uri(ThreadsSharedData.PyliersDictionnary.get(1) + "/gtc/appareils.json")
@@ -36,9 +32,9 @@ public class CommandThread extends Thread {
                     .retrieve()
                     .toEntity(String.class); 
 
-                logger.info("Command thread : Response status: " + pylierResponse.getStatusCode());
-                logger.info("Command thread : Response headers = " + pylierResponse.getHeaders());
-                logger.info("Command thread : Contents: " + pylierResponse.getBody());
+                ThreadsSharedData.Logger.info("Command thread : Response status: " + pylierResponse.getStatusCode());
+                ThreadsSharedData.Logger.info("Command thread : Response headers = " + pylierResponse.getHeaders());
+                ThreadsSharedData.Logger.info("Command thread : Contents: " + pylierResponse.getBody());
 
                 return;
 
@@ -74,7 +70,7 @@ public class CommandThread extends Thread {
                 */
             }            
         } catch (Exception e) {
-		    logger.error("Command thread : " + e.getMessage());
+		    ThreadsSharedData.Logger.error("Command thread : " + e.getMessage());
 
             // TODO: handle exception, dès que le restClient a une erreur, on atteri ici donc pas robuste aux erreurs pour l'instant
         }
