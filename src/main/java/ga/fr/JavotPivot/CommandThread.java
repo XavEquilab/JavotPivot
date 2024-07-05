@@ -14,17 +14,19 @@ public class CommandThread extends Thread {
 		ThreadsSharedData.Logger.info("Command thread started");
         try {
             while (true) {
-                ThreadsSharedData.Logger.info("Command thread : 1 second as passed by");
-                    
-                // get json commands from database
+                // repeat in 1 second
+                //Thread.sleep(1000);
+                //ThreadsSharedData.Logger.info("Command thread : 1 second as passed by");
+                
+                // get json commands from database for this building
                 String commandesResponse = ThreadsSharedData.HttpClient.get()
-                    .uri(ThreadsSharedData.HyperviseurApiUrl + "/api/commandes.json")
+                    .uri(ThreadsSharedData.HyperviseurApiUrl + "/api/commandes/" + ThreadsSharedData.BuildingId)
                     .header("Accept", "application/json")
                     .retrieve()
                     .body(String.class);
 
                 ThreadsSharedData.Logger.info("Command thread : commandesResponse = " + commandesResponse);
-
+/*
                 ResponseEntity<String> pylierResponse = ThreadsSharedData.HttpClient.post()
                     .uri(ThreadsSharedData.PyliersDictionnary.get(1) + "/gtc/appareils.json")
                     .header("Content-Type", "application/json")
@@ -33,45 +35,42 @@ public class CommandThread extends Thread {
                     .toEntity(String.class); 
 
                 ThreadsSharedData.Logger.info("Command thread : Response status: " + pylierResponse.getStatusCode());
-                ThreadsSharedData.Logger.info("Command thread : Response headers = " + pylierResponse.getHeaders());
                 ThreadsSharedData.Logger.info("Command thread : Contents: " + pylierResponse.getBody());
-
+*/
                 return;
-
-/*
+                /*
                 for (CommandeDB commandeDB : commandes) {
                     if(_commandsProcessed.contains(commandeDB.getId())) {
                         continue;
-                    } else{
-                        //_commandsProcessed.add(commandeDB.getId()); pas mtn
-                        // recup que les comandes a traiter
-                    }
+                        } else{
+                            //_commandsProcessed.add(commandeDB.getId()); pas mtn
+                            // recup que les comandes a traiter
+                            }
                             
-                    // TODO: faire une dichotomie par pyliers concernés
-
-                }
-                // TODO: gérer _commandsProcessed: retirer ce qui n'a pas été actualisé par la bdd
-
-                // send commands to Pylier
-                ResponseEntity<Void> pylierResponse = _restClient.post()
-                    .uri("{_hyperviseurApiUrl}/api/commandes.json", _hyperviseurApiUrl)
-                    //.uri("http://{_bddAPIAddress}/Pylier/gtc/appareils.json", _bddAPIAddress)
-                    .header("Content-Type", "application/json")
-                    //.contentType(APPLICATION_JSON)
-                    .body(commandesResponse)
-                    .retrieve()
-                    .toBodilessEntity(); 
-
-
-                // TODO: /acquittement/{id} + ajouter id a _commandsProcessed
-    
-                // repeat in 1 second
-                Thread.sleep(1000);
-                */
-            }            
-        } catch (Exception e) {
-		    ThreadsSharedData.Logger.error("Command thread : " + e.getMessage());
-
+                            // TODO: faire une dichotomie par pyliers concernés
+                            
+                            }
+                            // TODO: gérer _commandsProcessed: retirer ce qui n'a pas été actualisé par la bdd
+                            
+                            // send commands to Pylier
+                            ResponseEntity<Void> pylierResponse = _restClient.post()
+                            .uri("{_hyperviseurApiUrl}/api/commandes.json", _hyperviseurApiUrl)
+                            //.uri("http://{_bddAPIAddress}/Pylier/gtc/appareils.json", _bddAPIAddress)
+                            .header("Content-Type", "application/json")
+                            //.contentType(APPLICATION_JSON)
+                            .body(commandesResponse)
+                            .retrieve()
+                            .toBodilessEntity(); 
+                            
+                            
+                            // TODO: /acquittement/{id} + ajouter id a _commandsProcessed
+                            // POST /api/acquittement/{id}
+                            
+                            */
+                        }            
+                    } catch (Exception e) {
+                        ThreadsSharedData.Logger.error("Command thread : " + e.getMessage());
+                        
             // TODO: handle exception, dès que le restClient a une erreur, on atteri ici donc pas robuste aux erreurs pour l'instant
         }
     }

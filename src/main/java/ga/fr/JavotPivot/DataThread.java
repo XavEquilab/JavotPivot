@@ -25,7 +25,9 @@ public class DataThread extends Thread {
         ThreadsSharedData.Logger.info("Data thread started");
         try {
             while (true) {
-                ThreadsSharedData.Logger.info("Data thread : 1 second as passed by");
+                // repeat in 1 second
+                //Thread.sleep(1000);
+                //ThreadsSharedData.Logger.info("Data thread : 1 second as passed by");
 
                 // get json data from pylier
                 // TODO: faire ça pour chaque pylier
@@ -40,20 +42,19 @@ public class DataThread extends Thread {
 
                 String dataFormated = formateDataFromPylierToHyperviseur(dataResponse);
     
-                ResponseEntity<String> pylierResponse = ThreadsSharedData.HttpClient.post()
-                    .uri(ThreadsSharedData.HyperviseurApiUrl + "/api/variables")
-                    .header("Content-Type", "application/json")
-                    .body(dataFormated)
-                    .retrieve()
-                    .toEntity(String.class);
+/*
+ResponseEntity<String> pylierResponse = ThreadsSharedData.HttpClient.post()
+.uri(ThreadsSharedData.HyperviseurApiUrl + "/api/variables")
+.header("Content-Type", "application/json")
+.body(dataFormated)
+.retrieve()
+.toEntity(String.class);
 
-                ThreadsSharedData.Logger.info("Data thread : Response status: " + pylierResponse.getStatusCode());
-                ThreadsSharedData.Logger.info("Data thread : Response headers = " + pylierResponse.getHeaders());
-                ThreadsSharedData.Logger.info("Data thread : Contents: " + pylierResponse.getBody());
+ThreadsSharedData.Logger.info("Data thread : Response status: " + pylierResponse.getStatusCode());
+ThreadsSharedData.Logger.info("Data thread : Contents: " + pylierResponse.getBody());
 
+*/
                 return;
-                // repeat in 1 second
-                //Thread.sleep(1000);
             }            
         } catch (Exception e) {
             ThreadsSharedData.Logger.error("Data thread : " + e.getMessage());
