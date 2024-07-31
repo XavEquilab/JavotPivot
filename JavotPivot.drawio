@@ -1,0 +1,346 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="3aG9pimcDMAXePwBK4gR">
+    <mxGraphModel dx="4197" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-43" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="523" y="266" as="sourcePoint" />
+            <mxPoint x="633" y="276" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="633" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/2-building-line-filled/614/Column-128.png" parent="1" vertex="1">
+          <mxGeometry x="270" y="210" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/2-building-line-filled/614/Column-128.png" parent="1" vertex="1">
+          <mxGeometry x="268" y="396" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-4" value="POSTGRE SQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="260" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" parent="1" vertex="1">
+          <mxGeometry x="870" y="270" width="78.89" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.alexa_enabled_device;" parent="1" vertex="1">
+          <mxGeometry x="25" y="150" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+          <mxGeometry x="155" y="184" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+          <mxGeometry x="155" y="326" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" parent="1" vertex="1">
+          <mxGeometry x="155" y="447" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-19" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="246" as="sourcePoint" />
+            <mxPoint x="120" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-20" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="180" as="sourcePoint" />
+            <mxPoint x="120" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="232.8" as="sourcePoint" />
+            <mxPoint x="120" y="232.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="150" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OPd0sznqHjZM4wTcmpRM-26" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="330" as="sourcePoint" />
+            <mxPoint x="120" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="398" as="sourcePoint" />
+            <mxPoint x="120" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="309" as="sourcePoint" />
+            <mxPoint x="120" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="372.86" as="sourcePoint" />
+            <mxPoint x="120" y="372.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="326" as="sourcePoint" />
+            <mxPoint x="150" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="350" as="sourcePoint" />
+            <mxPoint x="150" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="459.76" as="sourcePoint" />
+            <mxPoint x="120" y="459.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="459.76" as="sourcePoint" />
+            <mxPoint x="150" y="459.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="sourcePoint" />
+            <mxPoint x="240" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="459.8" as="sourcePoint" />
+            <mxPoint x="280" y="459.90447761194037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="340" as="sourcePoint" />
+            <mxPoint x="240" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-14" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.012;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="OPd0sznqHjZM4wTcmpRM-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="sourcePoint" />
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-16" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;APPAREIL&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="5" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-17" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;MOXA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="145" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-18" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;PYLIER&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="304" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-20" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.alexa_enabled_device;" parent="1" vertex="1">
+          <mxGeometry x="25" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.alexa_enabled_device;" parent="1" vertex="1">
+          <mxGeometry x="25" y="275" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-22" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.alexa_enabled_device;" parent="1" vertex="1">
+          <mxGeometry x="25" y="352" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-23" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.alexa_enabled_device;" parent="1" vertex="1">
+          <mxGeometry x="25" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-24" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;JAVOTPIVOT&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="588" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-25" value="&lt;b&gt;HYPERVISEUR&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="839.4399999999999" y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-26" value="&lt;b&gt;BDD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="320" as="sourcePoint" />
+            <mxPoint x="1010" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-28" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=0;endSize=0.03666666666666667;startWidth=0;startSize=0.03666666666666667;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="850" y="464" as="sourcePoint" />
+            <mxPoint x="850" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-29" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;API REST&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="148" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.66" y="494" as="sourcePoint" />
+            <mxPoint x="439.66" y="154" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439.66" y="224" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-31" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="464.65999999999997" as="sourcePoint" />
+            <mxPoint x="440" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-33" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="337" as="sourcePoint" />
+            <mxPoint x="560" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-37" value="MODBUS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TuiDsIN-Bz8gQbYDVfYo-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.5667" y="3" relative="1" as="geometry">
+            <mxPoint x="-226" y="-195" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="339" as="sourcePoint" />
+            <mxPoint x="840" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-38" value="TCP / IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="850" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-41" value="TCP / IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="440.0011111111112" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-42" value="MODBUS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-47" value="Serveur HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="245" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1E0m0XPkdMWWD9W61iRs-1" value="Serveur HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="429" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1E0m0XPkdMWWD9W61iRs-2" value="Client Http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="509" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1E0m0XPkdMWWD9W61iRs-5" value="Client Http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" parent="1" vertex="1">
+          <mxGeometry x="390.53" y="266" width="18.93" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" parent="1" vertex="1">
+          <mxGeometry x="391" y="450" width="18.93" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="552" y="325.6" width="22.4" height="22.4" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="704" y="325.6" width="22.4" height="22.4" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-5" value="Serveur HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="543.47" y="236" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" parent="1" vertex="1">
+          <mxGeometry x="624.54" y="258" width="18.93" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-10" value="&lt;b&gt;MODULE COMMANDE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(toutes les 1sec)&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Get [url api hyperviseur]&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;/api/commades.json envoyer les commandes aux bons pyliers d&#39;un coup sur [url pylier]/gtc/appareils.json puis acquitter sur&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;[url api hypervisuer]&lt;/span&gt;/api/&lt;/span&gt;/acquittement/{id} les commandes executees&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Gerer le cas ou on recoit une commande deja executee&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="699" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" parent="1" vertex="1">
+          <mxGeometry x="490" y="708" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-12" value="&lt;b&gt;application.properties&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;javotPivot.hyperviseurApi.url&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;javotpivot.batiment.id&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="480" y="370" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.network_file_share_service;" parent="1" vertex="1">
+          <mxGeometry x="490" y="376" width="19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-17" value="&lt;b&gt;CONFIGURATION&lt;/b&gt;&lt;div&gt;&lt;b&gt;(toutes les 10 min)&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;GetDatabaseAddress() depuis application.properties &lt;strike&gt;sinon d&#39;une exploration du réseau pour trouver une réponse à [url api hyperviseur]/api/&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;isHyperviseur&lt;/span&gt;&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;GetPyliersDictionnary() récupère id et ip des pyliers sur&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;[url api hyperviseur]&lt;/span&gt;/api&lt;/span&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;/config/pylier.json + &lt;strike&gt;liste id appareils par pylier&amp;nbsp;&lt;/strike&gt;&lt;/span&gt;&lt;span style=&quot;text-decoration-line: line-through; color: rgb(51, 51, 51);&quot;&gt;.../api&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot; dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;&lt;strike&gt;/which/devices/{id}&lt;/strike&gt;&amp;nbsp;on reçoit direct la liste d&#39;appareils il me semble&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot; dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Get config alarmes&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot; dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Get asservissement + &lt;strike&gt;POST asservissements sur le(s) pylier(s) sans cache&lt;/strike&gt;&amp;nbsp;traiter les asservissements&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;=&amp;gt; Enregistrer les configurations en dur dans la &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;mémoire en cas de redémarrage hors ligne&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="480" y="450" width="330" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" parent="1" vertex="1">
+          <mxGeometry x="490" y="459" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-19" value="&lt;b&gt;ENDPOINTS&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strike&gt;GET /api/isHyperviseur&lt;/strike&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /api&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;/config/pylier&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /api/commandes/{idBatiment}&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /api&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;/which/devices/{id}&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;GET &lt;/span&gt;/api/timearray/all&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Aptos, sans-serif;&quot;&gt;GET /api/config/alarmes/all&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /api/config/asservissement/monopylier/all&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /api/config/asservissement/multipylier/&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST /api&lt;span style=&quot;background-color: initial;&quot;&gt;/acquittement/{id}&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST /api/variables&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST /api/alarmes/all&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="870" y="386" width="340" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="TuiDsIN-Bz8gQbYDVfYo-45" value="&lt;b&gt;IHM&lt;/b&gt;" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="473" y="210" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-21" value="" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.wireless_connection;" parent="1" vertex="1">
+          <mxGeometry x="884" y="396" width="21" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-22" value="&lt;b&gt;ENDPOINTS&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /gtc/appareils.json =&amp;gt; recupere donnees&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST /gtc/asserv.json&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST /gtc/appareils.json =&amp;gt; commandes&lt;span style=&quot;font-size: 11pt; background-color: initial;&quot; class=&quot;apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="155" y="520" width="295" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-23" value="" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.wireless_connection;" parent="1" vertex="1">
+          <mxGeometry x="164" y="526" width="21" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-24" value="&lt;b&gt;MODULE TABLEAUX HORAIRES&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET tableaux horaire&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST les commandes aux pyliers aux bons moments&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="480.01" y="878" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-25" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" parent="1" vertex="1">
+          <mxGeometry x="490.01" y="887" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-28" value="&lt;b&gt;MODULE RECUPERATION DONNEES&lt;/b&gt;&lt;div&gt;&lt;b&gt;(toutes les 1sec)&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET Donnees des pyliers&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MAJ Alarmes + POST sur BDD&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MAJ Variables virtuelles&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST/PATCH des données changées à la BDD&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="479" y="967" width="330" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="MeUnJoeHDDgYrySrikaF-29" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" parent="1" vertex="1">
+          <mxGeometry x="489" y="976" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmcOrYsJ8OuGTfCb2lu-1" value="&lt;b&gt;NOTES&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Pourquoi recuperer la liste des alarmes en cours au démarrage?&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Aptos, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;JSON du&lt;br&gt;pylier problème de simple guillemet =&amp;gt; formatter côté pyvot mais corriger&lt;br&gt;sur pylier a terme&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="895" y="670" width="289" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmcOrYsJ8OuGTfCb2lu-3" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1">
+          <mxGeometry x="915" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmcOrYsJ8OuGTfCb2lu-4" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE4LjMxOTk5OTY5NDgyNDIyIiBoZWlnaHQ9IjIwLjAwMDAwMTkwNzM0ODYzMyIgdmlld0JveD0iMCAwIDE4LjMxOTk5OTY5NDgyNDIyIDIwLjAwMDAwMTkwNzM0ODYzMyI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzY2OWRmNjt9JiN4YTsJLnN0MXtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDJ7ZmlsbDojYWVjYmZhO30mI3hhOwk8L3N0eWxlPiYjeGE7CTxkZWZzPiYjeGE7CQk8ZmlsdGVyIGlkPSJBIiB4PSI0LjY0IiB5PSI0LjE5IiB3aWR0aD0iMTQuNzMiIGhlaWdodD0iMTIuNzYiIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj4mI3hhOwkJCTxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmZmIi8+JiN4YTsJCQk8ZmVCbGVuZCBpbj0iU291cmNlR3JhcGhpYyIvPiYjeGE7CQk8L2ZpbHRlcj4mI3hhOwkJPG1hc2sgaWQ9IkIiIHg9IjQuNjQiIHk9IjQuMTkiIHdpZHRoPSIxNC43MyIgaGVpZ2h0PSIxMi43NiIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSI+JiN4YTsJCQk8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyLjIzIiByPSIzLjU4IiBmaWx0ZXI9InVybCgjQSkiLz4mI3hhOwkJPC9tYXNrPiYjeGE7CTwvZGVmcz4mI3hhOwk8ZyBjbGFzcz0ic3QwIj4mI3hhOwkJPGNpcmNsZSBjeD0iMTYuMTMiIGN5PSI2LjIxIiByPSIxLjcyIi8+JiN4YTsJCTxjaXJjbGUgY3g9IjIuMTkiIGN5PSI2LjIxIiByPSIxLjcyIi8+JiN4YTsJCTxjaXJjbGUgY3g9IjkuMTYiIGN5PSIxOC4yOCIgcj0iMS43MiIvPiYjeGE7CTwvZz4mI3hhOwk8ZyBtYXNrPSJ1cmwoI0IpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMi44NCAtMikiPiYjeGE7CQk8cGF0aCB0cmFuc2Zvcm09Im1hdHJpeCguNSAtLjg3IC44NyAuNSAtNC41OSAyMC41MykiIGQ9Ik0xNC42OSAxMC4yMmgxLjU5djguMDRoLTEuNTl6IiBjbGFzcz0ic3QxIi8+JiN4YTsJCTxwYXRoIHRyYW5zZm9ybT0icm90YXRlKDMzMCA4LjUyMyAxNC4yNDQpIiBkPSJNNC40OSAxMy40NWg4LjA0djEuNTlINC40OXoiIGNsYXNzPSJzdDEiLz4mI3hhOwkJPHBhdGggZD0iTTExLjIgNC4xOWgxLjU5djguMDRIMTEuMnoiIGNsYXNzPSJzdDEiLz4mI3hhOwk8L2c+JiN4YTsJPGcgY2xhc3M9InN0MiI+JiN4YTsJCTxjaXJjbGUgY3g9IjkuMTYiIGN5PSIxMC4yMyIgcj0iMi43OCIvPiYjeGE7CQk8Y2lyY2xlIGN4PSIyLjE5IiBjeT0iMTQuMjUiIHI9IjIuMTkiLz4mI3hhOwkJPGNpcmNsZSBjeD0iMTYuMTMiIGN5PSIxNC4yNSIgcj0iMi4xOSIvPiYjeGE7CQk8Y2lyY2xlIGN4PSI5LjE2IiBjeT0iMi4xOSIgcj0iMi4xOSIvPiYjeGE7CTwvZz4mI3hhOzwvc3ZnPg==;" parent="1" vertex="1">
+          <mxGeometry x="609.75" y="290" width="62.5" height="69.44" as="geometry" />
+        </mxCell>
+        <mxCell id="uxGpXrjClQ8MHOgv3Bwa-3" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE4LjMxOTk5OTY5NDgyNDIyIiBoZWlnaHQ9IjIwLjAwMDAwMTkwNzM0ODYzMyIgdmlld0JveD0iMCAwIDE4LjMxOTk5OTY5NDgyNDIyIDIwLjAwMDAwMTkwNzM0ODYzMyI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzY2OWRmNjt9JiN4YTsJLnN0MXtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDJ7ZmlsbDojYWVjYmZhO30mI3hhOwk8L3N0eWxlPiYjeGE7CTxkZWZzPiYjeGE7CQk8ZmlsdGVyIGlkPSJBIiB4PSI0LjY0IiB5PSI0LjE5IiB3aWR0aD0iMTQuNzMiIGhlaWdodD0iMTIuNzYiIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj4mI3hhOwkJCTxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmZmIi8+JiN4YTsJCQk8ZmVCbGVuZCBpbj0iU291cmNlR3JhcGhpYyIvPiYjeGE7CQk8L2ZpbHRlcj4mI3hhOwkJPG1hc2sgaWQ9IkIiIHg9IjQuNjQiIHk9IjQuMTkiIHdpZHRoPSIxNC43MyIgaGVpZ2h0PSIxMi43NiIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSI+JiN4YTsJCQk8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyLjIzIiByPSIzLjU4IiBmaWx0ZXI9InVybCgjQSkiLz4mI3hhOwkJPC9tYXNrPiYjeGE7CTwvZGVmcz4mI3hhOwk8ZyBjbGFzcz0ic3QwIj4mI3hhOwkJPGNpcmNsZSBjeD0iMTYuMTMiIGN5PSI2LjIxIiByPSIxLjcyIi8+JiN4YTsJCTxjaXJjbGUgY3g9IjIuMTkiIGN5PSI2LjIxIiByPSIxLjcyIi8+JiN4YTsJCTxjaXJjbGUgY3g9IjkuMTYiIGN5PSIxOC4yOCIgcj0iMS43MiIvPiYjeGE7CTwvZz4mI3hhOwk8ZyBtYXNrPSJ1cmwoI0IpIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMi44NCAtMikiPiYjeGE7CQk8cGF0aCB0cmFuc2Zvcm09Im1hdHJpeCguNSAtLjg3IC44NyAuNSAtNC41OSAyMC41MykiIGQ9Ik0xNC42OSAxMC4yMmgxLjU5djguMDRoLTEuNTl6IiBjbGFzcz0ic3QxIi8+JiN4YTsJCTxwYXRoIHRyYW5zZm9ybT0icm90YXRlKDMzMCA4LjUyMyAxNC4yNDQpIiBkPSJNNC40OSAxMy40NWg4LjA0djEuNTlINC40OXoiIGNsYXNzPSJzdDEiLz4mI3hhOwkJPHBhdGggZD0iTTExLjIgNC4xOWgxLjU5djguMDRIMTEuMnoiIGNsYXNzPSJzdDEiLz4mI3hhOwk8L2c+JiN4YTsJPGcgY2xhc3M9InN0MiI+JiN4YTsJCTxjaXJjbGUgY3g9IjkuMTYiIGN5PSIxMC4yMyIgcj0iMi43OCIvPiYjeGE7CQk8Y2lyY2xlIGN4PSIyLjE5IiBjeT0iMTQuMjUiIHI9IjIuMTkiLz4mI3hhOwkJPGNpcmNsZSBjeD0iMTYuMTMiIGN5PSIxNC4yNSIgcj0iMi4xOSIvPiYjeGE7CQk8Y2lyY2xlIGN4PSI5LjE2IiBjeT0iMi4xOSIgcj0iMi4xOSIvPiYjeGE7CTwvZz4mI3hhOzwvc3ZnPg==;" parent="1" vertex="1">
+          <mxGeometry x="612.5" y="152.4" width="63" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uxGpXrjClQ8MHOgv3Bwa-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="uxGpXrjClQ8MHOgv3Bwa-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="210" as="sourcePoint" />
+            <mxPoint x="840" y="199" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxGpXrjClQ8MHOgv3Bwa-9" value="Client Http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="166.6" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uxGpXrjClQ8MHOgv3Bwa-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="702.59" y="187.60000000000002" width="22.4" height="22.4" as="geometry" />
+        </mxCell>
+        <mxCell id="wZWlOeINLrc-Q1sECw4E-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;HYPERVISEUR&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot;&gt;GET /api&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: left;&quot; dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;/config/pylier =&amp;gt;&amp;nbsp;&lt;/span&gt;[{&quot;pylier_id&quot;:2,&quot;pylier_url&quot;:&quot;http:\/\/1270.0.0.1:3000&quot;,&quot;pylier_name&quot;:&quot;Pylier21&quot;,&quot;devices&quot;:[]},{&quot;pylier_id&quot;:1,&quot;pylier_url&quot;:&quot;http:\/\/localhost:1300&quot;,&quot;pylier_name&quot;:&quot;PylierTest&quot;,&quot;devices&quot;:[{&quot;device_id&quot;:11417,&quot;device_name&quot;:&quot;M.T.A. PAE 72&quot;,&quot;device_type_id&quot;:244,&quot;zone_id&quot;:1,&quot;device_short_name&quot;:&quot;72&quot;,&quot;surface_id&quot;:1,&quot;site_id&quot;:0,&quot;pivot&quot;:{&quot;pylier_id&quot;:1,&quot;device_id&quot;:11417}}]}]&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /api/commandes/{idBatiment} =&amp;gt;&amp;nbsp;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;[{&quot;command_id&quot;:53,&quot;command_json&quot;:&quot;[{\&quot;id\&quot;:11210,\&quot;setonoff\&quot;:\&quot;2\&quot;}]&quot;,&quot;command_date&quot;:&quot;2024-07-05 11:03:51&quot;,&quot;building_id&quot;:null}]&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;GET /api/timearray/all =&amp;gt;&amp;nbsp;[{&quot;timearray_week_schedule_id&quot;:15,&quot;timearray_week_schedule_name&quot;:&quot;Test&quot;,&quot;timearray_week_schedule_priority&quot;:1,&quot;days&quot;:{&quot;monday&quot;:[{&quot;start_date&quot;:&quot;08:00&quot;,&quot;end_date&quot;:&quot;09:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;244&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. PAE&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;fc_state&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setfan&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;245&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. VC&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;on_off&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;246&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. DF&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;mode&quot;,&quot;value&quot;:&quot;1&quot;}]}]}}],&quot;tuesday&quot;:[{&quot;start_date&quot;:&quot;08:00&quot;,&quot;end_date&quot;:&quot;09:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;244&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. PAE&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;fc_state&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setfan&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;245&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. VC&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;on_off&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;246&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. DF&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;mode&quot;,&quot;value&quot;:&quot;1&quot;}]}]}}],&quot;wednesday&quot;:[{&quot;start_date&quot;:&quot;08:00&quot;,&quot;end_date&quot;:&quot;09:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;244&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. PAE&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;fc_state&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setfan&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;245&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. VC&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;on_off&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;246&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. DF&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;mode&quot;,&quot;value&quot;:&quot;1&quot;}]}]}}],&quot;thursday&quot;:[{&quot;start_date&quot;:&quot;08:00&quot;,&quot;end_date&quot;:&quot;09:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;244&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. PAE&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;fc_state&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setfan&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;245&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. VC&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;on_off&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;246&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. DF&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;mode&quot;,&quot;value&quot;:&quot;1&quot;}]}]}}],&quot;friday&quot;:[{&quot;start_date&quot;:&quot;08:00&quot;,&quot;end_date&quot;:&quot;09:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;244&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. PAE&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;fc_state&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setfan&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;245&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. VC&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;on_off&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;246&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. DF&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;mode&quot;,&quot;value&quot;:&quot;1&quot;}]}]}}],&quot;saturday&quot;:[],&quot;sunday&quot;:[]},&quot;timearray_week_schedule_color&quot;:&quot;#ffaa00&quot;,&quot;client_id&quot;:2,&quot;device_group_right_id&quot;:3,&quot;device_ids&quot;:&quot;[212215,12215,412214,212214,212213,12213,130405]&quot;}},{&quot;timearray_period_id&quot;:19,&quot;timearray_period_start_date&quot;:&quot;2024-06-16 00:00:00&quot;,&quot;timearray_period_end_date&quot;:&quot;2024-06-23 00:00:00&quot;,&quot;building_id&quot;:1,&quot;client_id&quot;:2,&quot;week_schedule&quot;:{&quot;timearray_week_schedule_id&quot;:17,&quot;timearray_week_schedule_name&quot;:&quot;Test2&quot;,&quot;timearray_week_schedule_priority&quot;:2,&quot;days&quot;:{&quot;monday&quot;:[{&quot;start_date&quot;:&quot;09:00&quot;,&quot;end_date&quot;:&quot;10:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;184&quot;,&quot;deviceTypeName&quot;:&quot;Store Double sortie 2&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;motor&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;lock&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setangle&quot;,&quot;value&quot;:&quot;90&quot;}]}]}}],&quot;tuesday&quot;:[{&quot;start_date&quot;:&quot;09:00&quot;,&quot;end_date&quot;:&quot;10:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;244&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. PAE&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;fc_state&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setfan&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;245&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. VC&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;on_off&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;246&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. DF&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;mode&quot;,&quot;value&quot;:&quot;1&quot;}]}]}}],&quot;wednesday&quot;:[{&quot;start_date&quot;:&quot;07:30&quot;,&quot;end_date&quot;:&quot;08:30&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;244&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. PAE&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;fc_state&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setfan&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;245&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. VC&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;modeprog&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;property_code&quot;:&quot;on_off&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;setonoff&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;settcsi&quot;,&quot;value&quot;:&quot;17&quot;},{&quot;property_code&quot;:&quot;settemplimit&quot;,&quot;value&quot;:&quot;2&quot;}]},{&quot;deviceTypeId&quot;:&quot;246&quot;,&quot;deviceTypeName&quot;:&quot;M.T.A. DF&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;mode&quot;,&quot;value&quot;:&quot;1&quot;}]}]}}],&quot;thursday&quot;:[{&quot;start_date&quot;:&quot;09:00&quot;,&quot;end_date&quot;:&quot;10:00&quot;,&quot;commands&quot;:{&quot;new_block_commands&quot;:[{&quot;deviceTypeId&quot;:&quot;184&quot;,&quot;deviceTypeName&quot;:&quot;Store Double sortie 2&quot;,&quot;commands&quot;:[{&quot;property_code&quot;:&quot;motor&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;property_code&quot;:&quot;lock&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;property_code&quot;:&quot;setangle&quot;,&quot;value&quot;:&quot;90&quot;}]}]}}],&quot;friday&quot;:[],&quot;saturday&quot;:[],&quot;sunday&quot;:[]},&quot;timearray_week_schedule_color&quot;:&quot;#6f7608&quot;,&quot;client_id&quot;:null,&quot;device_group_right_id&quot;:16,&quot;device_ids&quot;:&quot;[410116,210116,10116,410117,210117,10117,410118,210118,410119,210119,410120,210120,10120,410121,210121,10121,410122,210122,10122,410104,210104,410103,210103,10103,410102,210102,10102,410106,210106,10106,410107,210107,10107,410108,210108]&quot;}}]&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="50" width="1560" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="S2V3mTPphvKqryJfcaar-1" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;PYLIER&lt;/font&gt;&lt;/div&gt;&lt;ul style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;GET /gtc/appareils.json =&amp;gt;&amp;nbsp;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;[{&#39;refip&#39;: 1, &#39;ref&#39;: 1001, &#39;err&#39;: 727, &#39;type&#39;: &#39;mtax_vc&#39;}, {&#39;tcsilimit&#39;: 254, &#39;fc_state&#39;: 0, &#39;nightmode&#39;: 2, &#39;consovent&#39;: 0.0, &#39;tbatext&#39;: 5555.0, &#39;text&#39;: 5555.0, &#39;modeprog&#39;: 4, &#39;type&#39;: &#39;mtax_dalac_pae&#39;, &#39;consochaud&#39;: 0.0, &#39;etat&#39;: 1, &#39;co2&#39;: 5555, &#39;ref&#39;: 1002, &#39;tcsi_prog&#39;: 20.0, &#39;tamb&#39;: 5555.0, &#39;vitav&#39;: 0, &#39;tbatint&#39;: 5555.0, &#39;tairneuf&#39;: 5555.0, &#39;puissance&#39;: 0, &#39;vitan&#39;: 0, &#39;consoclim&#39;: 0.0, &#39;vitreelcomp&#39;: 0, &#39;tcsi&#39;: 20.0, &#39;refip&#39;: 1, &#39;fenetre&#39;: 2, &#39;fan&#39;: 10, &#39;vitfan&#39;: 2, &#39;tboard&#39;: 26.7, &#39;on_off&#39;: 1, &#39;inverter_status&#39;: 0, &#39;err&#39;: 0, &#39;cov&#39;: 5555.0, &#39;fault&#39;: 959, &#39;ov_state&#39;: 0, &#39;alarme&#39;: 3, &#39;elecv2&#39;: 9, &#39;hygro&#39;: 5555, &#39;mode&#39;: 4, &#39;tairvicie&#39;: 5555.0, &#39;conso&#39;: 0.0, &#39;icomp&#39;: 0.0}, {&#39;tcsilimit&#39;: 2, &#39;fc_state&#39;: 1, &#39;nightmode&#39;: 0, &#39;consovent&#39;: 0.0, &#39;tbatext&#39;: 5555.0, &#39;text&#39;: 5555.0, &#39;vitfanint&#39;: 2, &#39;modeprog&#39;: 4, &#39;type&#39;: &#39;mta_s8r3&#39;, &#39;consochaud&#39;: 0.0, &#39;etat&#39;: 11, &#39;fan_int&#39;: 10, &#39;co2&#39;: 5555, &#39;ref&#39;: 1003, &#39;tcsi_prog&#39;: 0.0, &#39;tamb&#39;: 5555.0, &#39;vitav&#39;: 3, &#39;tbatint&#39;: 5555.0, &#39;tairneuf&#39;: 5555.0, &#39;puissance&#39;: 0, &#39;vitan&#39;: 0, &#39;tairrecycle&#39;: 5555.0, &#39;conso&#39;: 0.0, &#39;tcsi&#39;: 20.0, &#39;refip&#39;: 1, &#39;fenetre&#39;: 2, &#39;vitext&#39;: 0, &#39;fan&#39;: 254, &#39;vitfan&#39;: 0, &#39;tboard&#39;: 0.0, &#39;on_off&#39;: 1, &#39;err&#39;: 0, &#39;cov&#39;: 5555.0, &#39;fault&#39;: 200, &#39;ov_state&#39;: 0, &#39;alarme&#39;: 959, &#39;elecv2&#39;: 9, &#39;hygro&#39;: 5555, &#39;vitfanext&#39;: 0, &#39;mode&#39;: 4, &#39;vitint&#39;: 0, &#39;icomp&#39;: 0.01, &#39;consoclim&#39;: 0.0}, {&#39;refip&#39;: 1, &#39;ref&#39;: 1004, &#39;err&#39;: 713, &#39;type&#39;: &#39;crystal_control_store1&#39;}, {&#39;refip&#39;: 1, &#39;ref&#39;: 1014, &#39;err&#39;: 713, &#39;type&#39;: &#39;crystal_control_store2&#39;}, {&#39;refip&#39;: 1, &#39;ref&#39;: 1005, &#39;err&#39;: 721, &#39;type&#39;: &#39;hub8r_pacs8&#39;}, {&#39;refip&#39;: 1, &#39;ref&#39;: 1006, &#39;err&#39;: 714, &#39;type&#39;: &#39;gamtas20&#39;}, {&#39;etat&#39;: 200, &#39;type&#39;: &#39;gastorecalifornien&#39;, &#39;amot1&#39;: 4, &#39;err&#39;: 0, &#39;lock&#39;: 0, &#39;fenetre&#39;: 8, &#39;mot1&#39;: 4, &#39;tch&#39;: 2, &#39;refip&#39;: 1, &#39;aperture&#39;: 10, &#39;ref&#39;: 1007, &#39;aperture_imp&#39;: 0}, {&#39;refip&#39;: 1, &#39;ref&#39;: 1, &#39;err&#39;: 0, &#39;type&#39;: &#39;port&#39;}, {&#39;refip&#39;: 2, &#39;ref&#39;: 2, &#39;err&#39;: 879, &#39;type&#39;: &#39;port&#39;}]&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST /gtc/asserv.json =&amp;gt; ?&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;POST /gtc/appareils.json =&amp;gt; [{&#39;ref&#39;:1002,&#39;set_reset_soft&#39;:1234}]&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="990" width="1560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xfv_7ans81TYPStXN6-C-1" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;EXEMPLE COMMUNICATION APIs&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2295" y="5" width="350" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
